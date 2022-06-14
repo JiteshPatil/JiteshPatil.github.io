@@ -1,13 +1,7 @@
 <div class="bgimg">
-  <div class="topleft">
-    <p>Logo</p>
-  </div>
-  <div class="middle">
+  <div>
     <h1>COMING SOON</h1>
     <hr>
-    <p>15 days</p>
-  </div>
-  <div class="bottomleft">
-    <p>Some text</p>
+    <h2>15 days</h2>
   </div>
 </div>
